@@ -1,0 +1,6 @@
+[package]
+org = "wso2"
+name = "ballerina_automation"
+version = "0.1.0"
+
+bi = true
